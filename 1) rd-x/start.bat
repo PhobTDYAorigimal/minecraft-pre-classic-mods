@@ -1,0 +1,2 @@
+java -Xms512m -Xmx1g -Djava.library.path=natives/ -cp "rd-x.jar;libs/asm-all-4.1.jar;libs/jinput-2.0.5.jar;libs/jopt-simple-4.5.jar;libs/jutils-1.0.0.jar;libs/launchwrapper-1.6.jar;libs/lwjgl_util-2.9.0.jar;libs/lwjgl-2.9.0.jar;libs/lwjgl-platform-2.9.0-natives-windows.jar" com.mojang.rubydung.RubyDung
+pause
